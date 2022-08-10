@@ -2,7 +2,7 @@
 
 ## Create the varible for Inputs & selectors
 
-```
+```javascript
   var selectSelector = 'select';
   var inputSelector = 'input';
   var selector = inputSelector + ', ' + selectSelector;
