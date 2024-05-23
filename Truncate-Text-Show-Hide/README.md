@@ -100,8 +100,6 @@ Add the following CSS to your project
     font-size: 14px;
 }
 ```
-> [!NOTE]
-> Vanila JavaScript
 
 **THANK YOU**
 
