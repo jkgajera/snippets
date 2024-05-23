@@ -1,5 +1,7 @@
 # Truncate Text Show/Hide
 
+When copy has more then three lines so that copy will truncate and show in three line with the CTA "Show More". That CTA click on show full text & CTA copy will be replaced with the "Show Less"
+
 ## Html Code
 
 It's Tested in Chrome, Firefox, Safari, EDGE & Internet Explorer. As well as tested in relative tablet and mobile devices
